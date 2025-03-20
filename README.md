@@ -51,12 +51,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=synthwave&username=SxBxcoder" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://st.depositphotos.com/1518767/1414/i/600/depositphotos_14148018-stock-photo-multiple-orange-and-pink-geometric.jpg"  />
 </div>
 
