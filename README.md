@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sayandip and I'm a AI/ML Enthusiast from India</h2>
+<h2 align="center">Hello World🌏! My name is Sayandip and I'm an AI/ML Enthusiast from India</h2>
 
 ###
 </br>
