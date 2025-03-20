@@ -57,6 +57,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SxBxcoder&show_icons=true&locale=en&layout=compact" alt="SxBxcoder" /></p>
 ![snake gif](https://github.com/SxBxcoder/SxBxcoder/blob/output/github-snake.svg)
 
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SxBxcoder" alt="SxBxcoder" /></a></p>
 
 </div>
