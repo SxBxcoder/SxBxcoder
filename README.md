@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey there! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
-  I'm <span style="font-weight:700;">Sayandip Bhattacharya (SxBxcoder)</span>
+  I'm <span style="font-weight:700;">Sayandip </span>
 </h1>
 </br>
 
