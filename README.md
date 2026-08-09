@@ -5,7 +5,7 @@
 </h1>
 </br>
 
-🎓 I'm a 3rd-year Computer Science student passionate about building real-world systems using Machine Learning, Deep Learning, and efficient algorithms.<br><br>💡 I love contributing to open-source, solving performance bottlenecks, improving documentation, and designing clean, scalable architectures. I actively explore opportunities to collaborate on research-heavy and engineering-focused projects.<br><br>🤖 My recent work includes MRI-based brain tumor analysis (IIT Kharagpur), latency-aware autonomous vehicle prediction models, and several ML-powered applications.<br><br>🔧 I enjoy working across the stack — from data pipelines and model development to backend engineering and DevOps fundamentals.<br><br>🌱 Currently seeking impactful software engineering internships and full time roles.<br>
+🎓 I'm a final year Computer Science student passionate about building real-world systems using Machine Learning, Deep Learning, and efficient algorithms.<br><br>💡 I love contributing to open-source, solving performance bottlenecks, improving documentation, and designing clean, scalable architectures. I actively explore opportunities to collaborate on research-heavy and engineering-focused projects.<br><br>🤖 My recent work includes MRI-based brain tumor analysis (IIT Kharagpur), latency-aware autonomous vehicle prediction models, and several ML-powered applications.<br><br>🔧 I enjoy working across the stack — from data pipelines and model development to backend engineering and DevOps fundamentals.<br><br>🌱 Currently seeking impactful software engineering internships and full time roles.<br>
 
 
 ## 🌐 Socials:
